@@ -1,1 +1,0 @@
-https://github.com/muhammedashiq-dev/sql/blob/main/homework/students.sql
